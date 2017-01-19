@@ -8,3 +8,5 @@ to preview
 - `npm install`
 - `npm start`
 - Open browser to `localhost:8080`, best seen using browser mobile emulator
+
+reference: [react-motion](https://github.com/chenglou/react-motion "react-motion Repository")
